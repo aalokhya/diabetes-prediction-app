@@ -31,7 +31,7 @@ This project is meant for **educational purposes**, showing how machine learning
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/diabetes-prediction-app.git
+   git clone https://github.com/aalokhya/diabetes-prediction-app.git
    cd diabetes-prediction-app
 
 

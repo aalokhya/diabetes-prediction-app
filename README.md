@@ -52,7 +52,6 @@ This project is meant for **educational purposes**, showing how machine learning
 
 ## 👤 Author
 
-**Your Name**
 GitHub: [@aalokhya](https://github.com/aalokhya)
 
 ## 📄 License
@@ -60,5 +59,3 @@ GitHub: [@aalokhya](https://github.com/aalokhya)
 This project is licensed under the **MIT License**.
 
 > ⚠️ *Disclaimer*: This app is not intended for real medical use. It is a demonstration tool for educational purposes only.
-
-

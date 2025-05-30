@@ -1,17 +1,21 @@
 # 💉 Diabetes Prediction App
 
+
 An intelligent, interactive web application that predicts the likelihood of diabetes based on user input. 
 Powered by machine learning models and wrapped in a clean Gradio interface, this project serves as a demonstration of how AI can assist in healthcare diagnostics.
 
 ## 🌐 Live Demo
 
+
 🔗 **Try it online**: [Hugging Face Space](https://huggingface.co/spaces/Aalokhya/Diabetes-Prediction)  
 
 ## 📌 About the Project
 
+
 This app predicts whether a person is diabetic or not based on several health-related parameters such as glucose level, BMI, age, and more. The backend is powered by machine learning models — specifically **Support Vector Machine (SVM)** and **K-Nearest Neighbors (KNN)** — trained on a well-known dataset related to diabetes diagnosis.
 
 The project highlights:
+
 
 - 🔬 Use of **SVM and KNN classifiers**
 - ⚡ Instant predictions via a web interface
@@ -21,6 +25,7 @@ The project highlights:
 This project is meant for **educational purposes**, showing how machine learning can be deployed for real-world predictions in healthcare.
 
 ## 🛠️ How to Run Locally
+
 
 1. **Clone the Repository**
 
@@ -45,6 +50,7 @@ This project is meant for **educational purposes**, showing how machine learning
 
 ## 🧪 Tools & Technologies
 
+
 * 🐍 Python
 * 🤖 Scikit-learn (SVM, KNN)
 * 🌐 Gradio (for UI)
@@ -52,9 +58,11 @@ This project is meant for **educational purposes**, showing how machine learning
 
 ## 👤 Author
 
+
 GitHub: [@aalokhya](https://github.com/aalokhya)
 
 ## 📄 License
+
 
 This project is licensed under the **MIT License**.
 
